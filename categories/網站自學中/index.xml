@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>網站自學中 on Sophie&#39;s blog</title>
+    <link>https://soplee2022.github.io/categories/%E7%B6%B2%E7%AB%99%E8%87%AA%E5%AD%B8%E4%B8%AD/</link>
+    <description>Recent content in 網站自學中 on Sophie&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 17 Feb 2022 22:30:47 +0800</lastBuildDate><atom:link href="https://soplee2022.github.io/categories/%E7%B6%B2%E7%AB%99%E8%87%AA%E5%AD%B8%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>〔架站流程〕菲的 MD 練習</title>
+      <link>https://soplee2022.github.io/blog/markdown-test/</link>
+      <pubDate>Thu, 17 Feb 2022 22:30:47 +0800</pubDate>
+      
+      <guid>https://soplee2022.github.io/blog/markdown-test/</guid>
+      <description>你好
+練習置入 Youtube 影片   </description>
+    </item>
+    
+  </channel>
+</rss>

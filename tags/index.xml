@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sophie&#39;s blog</title>
+    <link>https://soplee2022.github.io/tags/</link>
+    <description>Recent content in Tags on Sophie&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 17 Feb 2022 22:30:47 +0800</lastBuildDate><atom:link href="https://soplee2022.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New</title>
+      <link>https://soplee2022.github.io/tags/new/</link>
+      <pubDate>Thu, 17 Feb 2022 22:30:47 +0800</pubDate>
+      
+      <guid>https://soplee2022.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>筆記</title>
+      <link>https://soplee2022.github.io/tags/%E7%AD%86%E8%A8%98/</link>
+      <pubDate>Thu, 17 Feb 2022 22:30:47 +0800</pubDate>
+      
+      <guid>https://soplee2022.github.io/tags/%E7%AD%86%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重點整理</title>
+      <link>https://soplee2022.github.io/tags/%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86/</link>
+      <pubDate>Thu, 17 Feb 2022 22:30:47 +0800</pubDate>
+      
+      <guid>https://soplee2022.github.io/tags/%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>摘要</title>
+      <link>https://soplee2022.github.io/tags/%E6%91%98%E8%A6%81/</link>
+      <pubDate>Thu, 17 Feb 2022 17:00:47 +0800</pubDate>
+      
+      <guid>https://soplee2022.github.io/tags/%E6%91%98%E8%A6%81/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
